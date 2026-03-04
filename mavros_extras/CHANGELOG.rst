@@ -2,6 +2,12 @@
 Changelog for package mavros_extras
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.21.1 (2025-12-12)
+-------------------
+* extras: fix misprint
+* extras landing_target: fix `#2080 <https://github.com/mavlink/mavros/issues/2080>`_ fov vector init
+* Contributors: Vladimir Ermakov
+
 1.21.0 (2025-09-08)
 -------------------
 * regenerate all

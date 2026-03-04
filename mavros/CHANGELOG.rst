@@ -2,6 +2,11 @@
 Changelog for package mavros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.21.1 (2025-12-12)
+-------------------
+* Handling empty trajectory message
+* Contributors: Mihir Dharmadhikari
+
 1.21.0 (2025-09-08)
 -------------------
 * regenerate all
